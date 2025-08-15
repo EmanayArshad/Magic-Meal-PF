@@ -22,10 +22,10 @@ It allows customers to register, log in, order meals, view their details, rate t
 ---
 
 ## Project Structure
--magic_meal.c # Main source code
--textfile.txt # Stores registered customers
--ratings.txt # Stores ratings data
--Suggestions.txt # Stores customer suggestions
+- magic_meal.c # Main source code
+- textfile.txt # Stores registered customers
+- ratings.txt # Stores ratings data
+- Suggestions.txt # Stores customer suggestions
 
 
 ---
@@ -45,9 +45,9 @@ It allows customers to register, log in, order meals, view their details, rate t
    ```bash
    gcc magic_meal.c -o magic_meal.exe
 
--0 → Exit Program
--1 → Register as a new customer
--2 → Login as a registered customer
--3 → Order Meal
--4 → View Customer Details
+- 0 → Exit Program
+- 1 → Register as a new customer
+- 2 → Login as a registered customer
+- 3 → Order Meal
+- 4 → View Customer Details
 
